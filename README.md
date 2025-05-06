@@ -3,4 +3,4 @@
 AkvilonProject
 
 ## About App
-AkvilonProject - удобная среда для работы с pdf-файлами.
+AkvilonProject - Convenient environment for working with pdf files.
